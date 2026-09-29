@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+
+id = "face_keys"
+version = "0.1.0"
+name = "Face Keys"
+tagline = "Viewport shape key sliders, 2D eye look pad, auto detect"
+maintainer = "yakuruto"
+type = "add-on"
+tags = ["Animation"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
